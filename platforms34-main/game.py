@@ -49,7 +49,7 @@ while game:
 
             #camera.update(player)
 
-            camera.update(Player)
+            camera.update(platforms)
             
 
 
